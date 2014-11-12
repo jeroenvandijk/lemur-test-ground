@@ -9,6 +9,7 @@ Via command line:
     make launch-local
     
 Via repl:
+
     LEMUR_AWS_ACCESS_KEY=foo LEMUR_AWS_SECRET_KEY=bar lein repl
     user=> (launch-local)
     
